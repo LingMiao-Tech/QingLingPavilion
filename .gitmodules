@@ -1,0 +1,4 @@
+[submodule "qlp-core"]
+	path = qlp-core
+	url = https://github.com/LingMiao-Tech/qlp-core.git
+	branch = main
