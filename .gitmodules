@@ -1,4 +1,0 @@
-[submodule "qlp_client"]
-	path = qlp_client
-	url = https://github.com/LingMiao-Tech/qlp_client.git
-	branch = main
